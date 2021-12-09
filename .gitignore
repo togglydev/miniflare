@@ -3,7 +3,6 @@
 .mf
 .tmp
 node_modules
-dist
 
 # wrangler build artifacts
 test/fixtures/wrangler/rust/pkg
